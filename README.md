@@ -5,12 +5,10 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 **Project Link** - https://white-pond-0376bae00.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/4jPn0v8PblM
 
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
 
 ## Features and Functionalities 😃
 
@@ -42,9 +40,6 @@ This is a web based application developed for health related based website in in
 
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/116798821/207006859-2920e463-c80a-4f8e-a831-4facefdc1445.png)
-
-### health bot
-
 
 
 
